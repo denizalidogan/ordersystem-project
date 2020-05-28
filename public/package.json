@@ -4,7 +4,8 @@
   "description": "This is the demo project for the Upgrading AngularJS course.",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "node ../server/server.js"
   },
   "author": "Sam Julien",
   "license": "ISC",
